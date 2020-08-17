@@ -13,8 +13,8 @@ Educacion Superior: Estudio en la Univerisad De guayaquil "Estatal" de la carrer
 ```
 ```
 
-Chequea [Acerca de mi vida] para comprender más de mi o tambien puedes regresar a mi pagina inicial 
+Chequea [Acerca de mi vida] para comprender más de mi o tambien puedes regresar a mi [pagina inicial]
 
 [Acerca de mi vida]: https://freddystjr.github.io/PROJ-SO/javascript/nodejs/2020/08/17/welcome-to-jekyll.html
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[pagina inicial]:  https://freddystjr.github.io/PROJ-SO/
 [jekyll-talk]: https://talk.jekyllrb.com/
