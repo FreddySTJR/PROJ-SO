@@ -12,7 +12,6 @@ Programar se trata de usar nuestra creatividad e ingenio para resolver problemas
 
 Aprender a programar es aprender a pensar. Programar permite ejercitar otras capacidades que sirven para todos los ámbitos de tu vida, como mejorar el razonamiento lógico formal y potenciar la habilidad para la resolución de problemas.
 
-
 ```
 La programación se convirtió en una actividad fundamental en muchos campos y la necesidad de programadores en todo el mundo nunca fue tan alta. 
 Cada año se crean miles puestos nuevos de trabajo en programación sólo en nuestro país.
