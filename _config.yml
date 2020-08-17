@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: Freddy Mosquera
   tagline: Engineering Student
-  date_format: "%b %-d, %Y"
+  date_format: "AGOSTO 17, 2020"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
@@ -23,17 +23,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    twitter: freddystrappy
     github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
-    dribbble: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    pinterest: jekyll
-    youtube: jekyll
+    instagram: freddystrappy/?hl=es
     facebook: Freddy.Strappy.jr
-    soundcloud: jekyll
     telegram: jekyll
     gitlab: jekyll
 
