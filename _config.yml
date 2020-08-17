@@ -24,12 +24,11 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: freddystrappy
-    github:  thelehhman
+    github:  FreddySTJR
     instagram: freddystrappy/?hl=es
     facebook: Freddy.Strappy.jr
     telegram: jekyll
-    gitlab: jekyll
-
+    
     # Mastodon instances
     # mastodon:
     # - username: jekyll
