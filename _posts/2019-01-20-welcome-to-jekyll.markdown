@@ -6,6 +6,7 @@ categories: Javascript NodeJS
 ---
 Me llamo Freddy Msosquera soy un aspirante ha ingeniero en la materia de software, siempre me ha gustado crear, editar y aprender mas del mundo virtual y toda las maravillas que uno puede hacer solo con abrir su imaginacion
 Tengo 19 años y anhelo llegar al dia cuando termine mis estudios para completar una de mis metas pero tambien para seguir aprendiendo porque uno nunca deja de conocer mas de lo que te apasasiona  
+
 ```javascript
 const Razorpay = require('razorpay');
 
