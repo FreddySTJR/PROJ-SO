@@ -14,7 +14,7 @@ sass:
 plainwhite:
   name: Freddy Mosquera
   tagline: Engineering Student
-  date_format: "AGOSTO 17, 2020"
+  date_format: "Agosto 17, 2020"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
@@ -27,7 +27,7 @@ plainwhite:
     github:  FreddySTJR
     instagram: freddystrappy/?hl=es
     facebook: Freddy.Strappy.jr
-    telegram: jekyll
+    telegram: Freddy ST
     
     # Mastodon instances
     # mastodon:
