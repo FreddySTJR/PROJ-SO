@@ -20,6 +20,6 @@ Se estima que para el 2020 sólo en Estados Unidos quedarán vacantes más de 1 
 
 Chequear [acerca de mi] si te interesa aprender todo de mi y [mis estudios] o sino puedes seguir explorando en [mi blog]
 
-[acerca de mi]: https://freddystjr.github.io/PROJ-SO/javascript/nodejs/2020/08/17/welcome-to-life.html
-[mis estudios]:  https://freddystjr.github.io/PROJ-SO/javascript/nodejs/2020/08/17/welcome-to-edu.html
+[acerca de mi]: https://freddystjr.github.io/PROJ-SO/javascript/st/2020/08/17/welcome-to-life.html
+[mis estudios]:  https://freddystjr.github.io/PROJ-SO/javascript/st/2020/08/17/welcome-to-edu.html
 [mi blog]: https://freddystjr.github.io/PROJ-SO/
