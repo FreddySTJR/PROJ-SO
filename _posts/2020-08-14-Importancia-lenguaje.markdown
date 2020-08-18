@@ -2,7 +2,7 @@
 layout: post
 title:  "LA IMPORTANCIA DE LOS LENGUAJE DE PORGRAMACION"
 date:   2020-08-17 21:03:36 +0530
-categories: Javascript NodeJS
+categories: Javascript ST
 ---
 Los lenguajes de programación refieren a distintos tipos de expresiones y reglas de estructuración lógica que sirven para generar taras recurrentes y sistemáticas.
 
