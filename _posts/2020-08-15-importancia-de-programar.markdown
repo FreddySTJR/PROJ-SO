@@ -2,7 +2,7 @@
 layout: post
 title:  "LA IMPORTANCIA DE APRENDER A PROGRAMAR"
 date:   2020-08-17 21:03:36 +0530
-categories: Javascript NodeJS
+categories: Javascript ST
 ---
 La programación es una herramienta fundamental en el mundo en el que vivimos, convirtiéndose en una salida laboral importante. Además, su aprendizaje constituye una oportunidad al mejorar el razonamiento lógico formal.
 
