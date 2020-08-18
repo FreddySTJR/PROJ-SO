@@ -15,6 +15,6 @@ Tengo 19 años y anhelo llegar al dia cuando termine mis estudios para completar
 Chequear [mi educacion] para entender todo lo que me prepare para ingresar a mi carrera tambien puedes revisar mi [pagina inicial] para saber mas de mundo que nos apasiona 
 Mi primer blog [importancia de programar]
 
-[mi educacion]: https://freddystjr.github.io/PROJ-SO/javascript/nodejs/2020/08/17/welcome-to-edu.html
+[mi educacion]: https://freddystjr.github.io/PROJ-SO/javascript/st/2020/08/17/welcome-to-edu.html
 [pagina inicial]:  https://freddystjr.github.io/PROJ-SO/
 [importancia de programar]: https://freddystjr.github.io/PROJ-SO/javascript/st/2020/08/17/importancia-de-programar.html
