@@ -2,7 +2,7 @@
 layout: post
 title:  "EDUCACION"
 date:   2020-08-17 21:03:36 +0530
-categories: Javascript NodeJS
+categories: Javascript ST
 ---
 Educacion Basica:Estudie en diferentes escuela por motivo que no llegue a conocer, comence estudiando en una escuela llamada "La valle de la flor" luego de unos años me tocco cambiarme a otra escuela llamada "El paraiso de la fuente del saber" Y para terminar mis estudios en la escuela "Quito"
 
@@ -14,7 +14,8 @@ Educacion Superior: Estudio en la Univerisad De guayaquil "Estatal" de la carrer
 ```
 
 Chequea [Acerca de mi vida] para comprender más de mi o tambien puedes regresar a mi [pagina inicial]
+Mi primer blog [importancia de programar]
 
 [Acerca de mi vida]: https://freddystjr.github.io/PROJ-SO/javascript/nodejs/2020/08/17/welcome-to-jekyll.html
 [pagina inicial]:  https://freddystjr.github.io/PROJ-SO/
-[jekyll-talk]: https://talk.jekyllrb.com/
+[importancia de programar]: https://freddystjr.github.io/PROJ-SO/javascript/st/2020/08/17/importancia-de-programar.html
